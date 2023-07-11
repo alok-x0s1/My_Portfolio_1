@@ -1,14 +1,13 @@
-# My Web Development Portfolio
+# This is a preview of a Personal Portfolio website as a Web developer.
 
 This is my personal web development portfolio, showcasing my skills and projects as a web developer. The portfolio is built using HTML, CSS, and JavaScript, and it serves as a visual representation of my abilities and experiences in the field.
 
 ## Table of Contents
+- [Home](#home)
 - [About](#about)
-- [Technologies Used](#technologies-used)
-- [Features](#features)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [education](#education)
+- [Services](#services)
+- [Contact](#contactt)
 
 ## About
 As a passionate web developer, I created this portfolio to demonstrate my expertise and highlight the projects I have worked on. The website features an intuitive and visually appealing design to provide visitors with a seamless browsing experience. It offers a comprehensive overview of my skills, experience, and the projects I have completed.
