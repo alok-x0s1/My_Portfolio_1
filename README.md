@@ -5,7 +5,7 @@ This is my personal web development portfolio, showcasing my skills and projects
 ## Table of Contents
 - [Home](#home)
 - [About](#about)
-- [education](#education)
+- [Education](#education)
 - [Services](#services)
 - [Contact](#contactt)
 
@@ -41,3 +41,7 @@ Contributions to this portfolio are welcome! If you find any issues or have sugg
 
 ## License
 This portfolio is licensed under the [MIT License](LICENSE). Feel free to modify and adapt it to your needs.
+
+
+
+ ⚠️ This is not my Personal portfolio website, it's an overview about my skills. 
