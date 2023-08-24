@@ -12,7 +12,7 @@ This is my personal web development portfolio, showcasing my skills and projects
 
 ## Live Demo
 
-Check out the live demo of my portfolio [here]([https://alok-x0s1.github.io/My_Portfolio_1/](https://mr-x0s1.netlify.app/)).
+Check out the live demo of my portfolio [here]((https://mr-x0s1.netlify.app/)).
 
 ## About
 As a passionate web developer, I created this portfolio to demonstrate my expertise and highlight the projects I have worked on. The website features an intuitive and visually appealing design to provide visitors with a seamless browsing experience. It offers a comprehensive overview of my skills, experience, and the projects I have completed.
