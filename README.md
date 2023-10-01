@@ -33,7 +33,7 @@ The portfolio is primarily built using the following technologies:
 ## Usage
 To use this portfolio for your own web development projects, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/your-portfolio.git`
+1. Clone the repository: `git clone https://github.com/alok-x0s1/My_Portfolio_1.git`
 2. Navigate to the project directory: `cd your-portfolio`
 3. Open the index.html file in your preferred web browser.
 4. Customize the content in the HTML files to match your own skills, projects, and personal information.
